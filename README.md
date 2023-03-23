@@ -14,7 +14,7 @@ You can also delete saved notes by clicking on the trash can icon!
 
 ## Mock up
 The Landing page
-![alt text](https://github.com/Frostysnacks/expressNoteTaker/blob/main/Media/landing.PNG)
+![alt text](https://github.com/Frostysnacks/expressNoteTaker/blob/main/Media/notetake.PNG)
 Clicked Get started
 ![alt text](https://github.com/Frostysnacks/expressNoteTaker/blob/main/Media/landing.PNG)
 Added notes
