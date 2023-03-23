@@ -1,14 +1,16 @@
 # expressNoteTaker
 
 ## Description
-
+This application was designed with a small business owner in mind. It allows you to create and save notes in a quick easy way, they can also be deleted.
+This application was build by using HTML, CSS, Javascript, and express. It is also hosted live by Heroku. The most difficult challenge for me with this project was finding a way to delete.
 
 
 ## Installation
 run the "npm install" command and then install express using "npm i express" in the terminal
 
 ## Usage
-
+Click the Get started button and then add a title and content to your notes! You can then save you notes youing the save icon in the top right of the screen.
+You can also delete saved notes by clicking on the trash can icon!
 
 ## Mock up
 The Landing page
